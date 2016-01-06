@@ -12,5 +12,3 @@ What's up with the name?
 We call it "magic" because we're not exactly sure how it was originally generated. We could probably find out, we just haven't tried to dig that deep.
 
 We call it "aries" because a long time ago this dataset included a misspelling of Buenos Aires. Long-live the lost city of Buenos Aries!
-
-![Project Aries](Aries-Zodiac-Wallpaper-HD-4.jpg?raw=true)
