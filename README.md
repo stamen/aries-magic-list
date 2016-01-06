@@ -3,7 +3,7 @@ aries-magic-list
 
 What the heck is this?
 ---
-This is a list of city labels used by many [Stamen](http://stamen.com)-designed basemaps, such as [Toner](http://maps.stamen.com/toner) and [CartoDB](http://cartodb.com)'s [Positron and Dark Matter](http://cartodb.com/basemaps) styles. This list was once used as the input to [Dymo](https://github.com/migurski/dymo), which is a placement script for map labeling, using simulated annealing.
+This is an old list of city labels used by many [Stamen](http://stamen.com)-designed basemaps. This list was once used as the input to [Dymo](https://github.com/migurski/dymo), which is a placement script for map labeling, using simulated annealing. We don't use Dymo anymore, but we keep this file around for low-zoom labeling.
 
 Mostly the data appears to come from [Geonames](http://geonames.org), with a significant amount of modification and hand-curation by previous Stamen employees and collaborators. Much of its origins have now been lost to the mists of time.
 
